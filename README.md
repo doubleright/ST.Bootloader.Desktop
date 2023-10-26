@@ -13,8 +13,8 @@ STM32 Bootloader
 
 # 预览
 
-![1698285934019](\src\img\1698285934019.jpg)
+![1698285934019](src/img/1698285934019.jpg)
 
 # 赞助
 
-![skm](\src\img\skm.jpg)
+![skm](src/img/skm.jpg)
